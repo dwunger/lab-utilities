@@ -16,8 +16,6 @@ Huginn.ps1
 src/app.ps1
 src/BarcodeGenerator.ps1
 src/BootStrapper.ps1
-src/Chess.ps1
-src/FrogBog.ps1
 src/ImagePrint.ps1
 src/ISECalibrators.ps1
 src/Main.cs
